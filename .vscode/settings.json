@@ -1,6 +1,12 @@
 {
+<<<<<<< HEAD
     "python.linting.flake8Enabled": false,
     "python.linting.enabled": true,
     "python.analysis.typeCheckingMode": "off",
     "python.linting.mypyEnabled": true
+=======
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true,
+    "python.analysis.typeCheckingMode": "off"
+>>>>>>> 7aa3bf079de5a1a43d4921291e634c13aa4748e7
 }
